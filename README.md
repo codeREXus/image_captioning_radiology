@@ -135,10 +135,4 @@ Output: Generated medical caption describing abnormalities or findings
 
 ---
 
-## Author
-Final Year B.Tech Project (AI/ML Focus)
 
----
-
-## License
-This project is for academic and research purposes.
